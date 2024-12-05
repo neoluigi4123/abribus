@@ -1,0 +1,22 @@
+- dimension: 3.8 x 1.2m
+- Usage de panneaux photovoltaïque
+	- avec une batterie pour subvenir au besoin énergétique du système
+- éclairer l'intérieur de l'abribus: activer l'éclairage s'il fait sombre et qu'il y a une présence ([[mode veille]])
+	- automatisée l'activation/désactivation de l'éclairage
+  - détecter la présence dans l'abribus
+    - durée <1s pour le temps d'activation de l'éclairage
+  - déterminer s'il fait sombre ou non
+    - il fait sombre si <300 lux avec une précision de 10%
+    - (facultatif) adoucicement du seuil de luminosité (permet d'éviter les commutations trop fréquente)
+- pouvoir être détectable de loin quand il fait sombre
+  - distance de signalisation >200m sous une luminosité ambiante de 1 lux
+- Afficher des information a l'ecran
+  - utilisation d'api pour obtenir la [[température]] actuelle
+    - précision de 1°c pour les températures de -25°c - 50°c
+  - utilisation d'api pour obtenir l'[[heure]] actuelle
+  - affichage des prochain bus a venir depuis le site officiel aix en bus
+- port USB A
+- [[banc chauffant]]
+	- usage de chauffage alimenté par le système dans le banc
+
+![[Abribus Cahier des Charges.png]]

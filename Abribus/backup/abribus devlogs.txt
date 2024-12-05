@@ -1,0 +1,17 @@
+# Devlogs #1 (27/11/2024)
+### Debut du projet, avec une mise en point sur la problematique, avec se qui en deroule: *[[analyse de l'existant]], [[imaginer des solutions]]* permetant de faire marcher le systeme, et du [[cahier des charges]]
+
+Nous avons repris la problematique afin de partir sur de bonne base, la voici: ***Comment améliorer le confort d'utilisation et la securité d'un abribus tout en conservant un usage responable de l'énérgie.***
+
+Nous avons commencer avec une simple [[analyse de l'existant]], pour avoir un objectif de base, et l'ameliorer avec des innovation issue d'autres abribus.
+
+Voici les solutions permettant de faire marcher notre systeme: [[imaginer des solutions]]
+
+Nous avons re-ecrit notre propre [[cahier des charges]] contenant les objectif requis ainsi que certaine inovation issue de l'analyse de l'existant et de l'imagination des solutions
+
+Nous avons egalement penser a un [[mode veille]] afin de gerer la lumiere. Néo a été choisis comme *'chef'* du projet, afin de gerer la gestion de l'equipe, et finalement, nous avons commencer une repartition du travail inachevée.
+
+==Note (Néo)==
+J'ai rediger et mis au propre les idées realisé en classe a l'aide d'obsidian (un editeur de texte en markdown avec des nodes), pour avoir une gestion plus propre et precise du projet. La realisation d'un cahier des charge au format 'diagrame' est egalement en cours mais inachever.
+# Devlog #2 (4/12/2024)
+

@@ -1,0 +1,5 @@
+- usage de panneau-photovoltaique, pour devenir auto-suffisable avec des batteries
+- usage de thermometre, pour obtenir la temperature
+- Detecteur de presence, interieure/exterieur
+- '[[mode veille]]', pour etre visible de loin
+- usage d'ecran pour la temperature et l'affichage de la carte

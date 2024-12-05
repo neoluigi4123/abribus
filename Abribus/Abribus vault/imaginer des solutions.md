@@ -1,0 +1,5 @@
+- usage de panneau-photovoltaïque, pour devenir auto-suffisant avec des batteries
+- usage d'api pour la temperature'
+- Détecteur de présence, intérieure/extérieur
+- '[[mode veille]]', pour être visible de loin
+- usage d'écran pour la température et l'affichage de la carte

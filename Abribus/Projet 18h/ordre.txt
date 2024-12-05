@@ -1,0 +1,15 @@
+1recherche design
+2recherche materiaux
+3recherche capteur
+7conception detailler
+6valider la documentation technique
+5programmation
+4conception
+
+1://
+2:1
+3://
+7:1,2,3
+6:7
+5:1,2,3
+4:5,6

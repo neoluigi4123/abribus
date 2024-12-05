@@ -1,0 +1,9 @@
+avoir un objectif de base, et l'ameliorer avec des innovation issue d'autres abribus.
+
+- preau (protege de la meteo)
+- lumiere [[mode veille]]
+- pouvoir se reposer (banc)
+- carte (horaire bus)
+- partiellement fermer (3 murs)
+- ligne (qui passe par l'arret)
+- nom de l'arret

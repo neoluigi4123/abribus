@@ -1,0 +1,89 @@
+Comment améliorer le confort d’utilisation et la sécurité d’un
+abribus tout en conservant un usage responsable de
+l’énergie ?
+
+
+# observer un besoin
+
+•Analyse du cahier des
+charges:
+- usage de panneaux photo-voltaique
+
+- dimension: 3.8 x 1.2m
+- eclairer l'interieur de l'abribus: activer l'eclairage s'il fait sombre et qu'il y a une presence
+  - automatisée l'activation/desactivation de l'eclairage
+  - detecter la presence dans l'abribus
+    - >1s le temps d'activation de l'eclairage
+  - determiner s'il fait sombre ou non
+    - il fait sombre si <300 lux avec une precision de 10%
+    - (facultatif) adoucicement du seuil de luminosité (permet d'eviter les commutations trop frequente)
+- pouvoir etre detectable de loin quand il fait sombre
+  - distance de signalisation >200m sous une luminosité ambiante de 1 lux
+- (facultatif) fournir la temperature
+  - detecter la presence dans l'abribus
+    - precision de 1°c pour les temperatures de -25°c - 50°c
+  - affiche textuellement la temperature
+
+
+•Analyse des moyens
+humains et financier
+
+•Planification
+
+
+# Conception preliminaire
+
+•analyse de l'existant
+abribus:
+- preau (protege de la meteo)
+- lumiere
+- pouvoir se reposer (banc)
+- carte (horaire bus)
+- partiellement fermer (3 murs)
+- ligne (qui passe par l'arret)
+- nom de l'arret
+
+•brevet
+
+•normes et labels
+- Environnement:
+ - FSC: Garantie sur le bois, papier, carton. Gestion des forets et garantie l'exploitation legale de l'entreprise
+ - PEFC: FSC mais 70% de materiaux recycles
+ - NF environnement: qualité ecologique des produits, limitant l'impacts sur l'environnement au long de son cycle
+- Eco-responsable:
+ - ISO 14001: certification environnementable internationale. maitriser les impacts environnementaux.
+
+
+•Imaginer des solutions
+- usage de panneau-photovoltaique, pour devenir auto-suffisable avec des batteries
+
+- usage de thermometre, pour obtenir la temperature
+
+- Detecteur de presence, interieure/exterieur
+
+- 'mode veille', pour etre visible de loin
+
+- usage d'ecran pour la temperature et l'affichage de la carte
+
+
+# Truc a faire:
+
+- recherche brevet
+- recherche de l'ecran a utiliser
+- recherche capteurs (thermometre, capteur de presence)
+- recherche de lumieres
+- recherche materiaux
+- recherche batterie
+- recherche panneau-photovoltaique
+- modelisation 3D
+- plan 2D/3D
+- recherche design
+- programmation
+- emplacement pour pub
+
+- analyse fonctionnelle et comportementale
+- conception detaillé alimentation, programmation, configuration...
+- analyse du cycle de vie
+- simulation
+- essais sur prototype
+- valider la documentation technique

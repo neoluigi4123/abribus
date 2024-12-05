@@ -1,0 +1,1 @@
+Le mode veille fait en sorte que l'abri-bus reste allumer tout le temps, mais que quand il n'y a personne de détecter il reste a faible intensité afin d'être a la fois visible et a la fois économiser de l'Energie. Les lumières extérieurs seront affecter, mais la lumière intérieure s'éteindra

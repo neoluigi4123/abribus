@@ -1,0 +1,3 @@
+- **API : [World Time API](http://worldtimeapi.org/)**
+    - Fournit l’heure exacte basée sur une région, un fuseau horaire ou des coordonnées GPS.
+    - Facile à utiliser avec des données JSON.

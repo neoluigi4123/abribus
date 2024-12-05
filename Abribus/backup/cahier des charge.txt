@@ -1,0 +1,16 @@
+- dimension: 3.8 x 1.2m
+- Usage de panneaux photo-voltaique
+	- avec une batterie pour subvenir au besoin energetique du systeme
+- eclairer l'interieur de l'abribus: activer l'eclairage s'il fait sombre et qu'il y a une presence ([[mode veille]])
+	- automatisée l'activation/desactivation de l'eclairage
+  - detecter la presence dans l'abribus
+    - durée <1s pour le temps d'activation de l'eclairage
+  - determiner s'il fait sombre ou non
+    - il fait sombre si <300 lux avec une precision de 10%
+    - (facultatif) adoucicement du seuil de luminosité (permet d'eviter les commutations trop frequente)
+- pouvoir etre detectable de loin quand il fait sombre
+  - distance de signalisation >200m sous une luminosité ambiante de 1 lux
+- (facultatif) fournir la temperature
+  - detecter la presence dans l'abribus
+    - precision de 1°c pour les temperatures de -25°c - 50°c
+  - affiche textuellement la temperature

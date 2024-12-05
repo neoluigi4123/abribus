@@ -1,0 +1,1 @@
+Banc chauffant, qui s'adapte a la lumière (si personne il est éteins, si quelqu'un alors allumer), et qui s'adapte a la température extérieur.
